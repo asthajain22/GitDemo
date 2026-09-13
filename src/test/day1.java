@@ -29,10 +29,18 @@ public class day1
 	public void afSuite()
 	{
 		System.out.println("I am the no 1 from last");
+		System.out.println("I am the no 1 from last");
+		System.out.println("I am the no 1 from last");
 	}
 	
 	@Test
 	public void SecondTest()
+	{
+		System.out.println("bye");
+	}
+	
+	@Test
+	public void SecondTest2()
 	{
 		System.out.println("bye");
 	}
