@@ -16,5 +16,6 @@ public class day2
 	public void prerequisite()
 	{
 		System.out.println("I will execute first");
+		System.out.println("I will execute first");
 	}
 }
