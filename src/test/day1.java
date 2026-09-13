@@ -16,6 +16,8 @@ public class day1
 	public void Demo()
 	{
 		System.out.println("hello");
+		System.out.println("hello2");
+		System.out.println("hello3");
 		Assert.assertTrue(false);
 	}
 	
